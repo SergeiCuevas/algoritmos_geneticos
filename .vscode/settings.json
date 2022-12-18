@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "7-elitismo": "cpp",
+        "9-ensamblado": "cpp",
+        "stdlib.h": "c"
+    }
+}
